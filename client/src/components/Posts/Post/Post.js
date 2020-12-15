@@ -1,5 +1,6 @@
 import React from 'react';
 import { Card, CardActions, CardContent, CardMedia, Button, Typography } from '@material-ui/core';
+import { ExternalLink } from 'react-external-link';
 import ThumbUpAltIcon from '@material-ui/icons/ThumbUpAlt';
 import DeleteIcon from '@material-ui/icons/Delete';
 import MoreHorizIcon from '@material-ui/icons/MoreHoriz';
@@ -7,6 +8,8 @@ import moment from 'moment';
 import useStyles from './styles';
 import { useDispatch } from 'react-redux';
 import { deletePost, likePost } from '../../../actions/posts';
+import computer from '../../../images/computer.png';
+
 
 const Post = ({ post, setCurrentId }) => {
     const classes = useStyles();
@@ -14,7 +17,7 @@ const Post = ({ post, setCurrentId }) => {
 
     return (
         <Card className={classes.card}>
-            <CardMedia className={classes.media} image={post.selectedFile} title={post.title} />
+            <CardMedia className={classes.media} image={post.selectedFile.length == 0 ? computer:post.selectedFile} title={post.title} />
             <div className={classes.overlay}>
                 <Typography variant="h6">{post.creator}</Typography>
                 <Typography variant="body2">{moment(post.createdAt).fromNow()}</Typography>
@@ -33,6 +36,10 @@ const Post = ({ post, setCurrentId }) => {
             <Typography className={classes.title} variant="h5" gutterBottom>{post.title}</Typography>
             <CardContent>
                 <Typography variant="body2" color="textSecondary" component="p">{post.message}</Typography>
+                <Typography variant="body2" color="textSecondary" component="p"><b>Github Repo: </b>
+                <ExternalLink href={post.githubUrl}><span style={{ color: 'gray' }}>{post.githubUrl}</span></ExternalLink></Typography>
+                <Typography variant="body2" color="textSecondary" component="p"><b>Project Website: </b>
+                <ExternalLink href={post.projectUrl}><span style={{ color: 'gray' }}>{post.projectUrl}</span></ExternalLink></Typography>
             </CardContent>
             <CardActions className={classes.cardActions}>
                 <Button size="small" color="primary" onClick={() => dispatch(likePost(post._id))}>
