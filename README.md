@@ -141,7 +141,7 @@ The main component needed to run DevSpace is Node.js
 
 ### <span style="color:red"> </span> 
 
-* Next install all the project dependancies by running the following command while inside the memories file:
+* Next install all the project dependancies by running the following command while inside the memories-server file and the memories-client file:
 ```sh
             npm install
 ```
@@ -153,7 +153,7 @@ const API_KEY = 'ENTER YOUR API';
 
 * Finally, using the terminal, call the following command from inside of the memories file to launch DevSpace:
 ```sh
-            node app.js 
+            nodemon index.js 
 ```
 
 
