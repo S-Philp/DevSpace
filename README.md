@@ -11,21 +11,8 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use. Your editor may have an extension availabale. VSCode does for sure. You can add badges like ordinary snippets by pressing a few keys.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-# <h2 align="center">![Visitor Count](https://profile-counter.glitch.me/{NathanNOSudo}/count.svg)Visitors, connect with me on  <img href="https://linkedin.com/in/nathanorris" src="https://raw.githubusercontent.com/NathanNoSudo/NathanNoSudo/master/svg/social/linkedin.svg" alt="linkedin">
-
-
 
 <!-- [![Contributors][contributors-shield]][contributors-url] -->
-![swagger](https://img.shields.io/badge/swag--check-VALID-brightgreen)
-![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
-![stars-shield](http://githubbadges.com/fork.svg?user=nathannosudo&repo=readme-template-for-projects&background=007ecg&color=75ff33&style=default)
-![stars-shield](http://githubbadges.com/star.svg?user=nathannosudo&repo=readme-template-for-projects&background=007ecg&color=75ff33&style=default)
-![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
-[![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](http://ansicolortags.readthedocs.io/?badge=latest)
-[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/issues/)
-![code-blooded](https://img.shields.io/badge/CodeBlooded-VALID-blue)
-# <h2 align="center">![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
 <!-- [![Issues][issues-shield]][issues-url] -->
 <!-- [![MIT License][license-shield]][license-url] -->
 <!--[![LinkedIn][linkedin-shield]][linkedin-url] -->
