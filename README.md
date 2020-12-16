@@ -189,11 +189,11 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
  
+  - **Azam Sharp**- Digital Crafts Instructor
   - **Nathan Orris** - **The Certified** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)- **DiR at DigitalCrafts Houston** -
     [NathanNoSudo](https://github.com/NathanNoSudo)
- - **Othneildrew**  -
-    [OthneilDrew](https://github.com/othneildrew)
-* [Adrian Hajdin](https://github.com/adrianhajdin)
+ - **Othneildrew**  - [OthneilDrew](https://github.com/othneildrew)
+ - **Adrian Hajdin** - [Adrian Hajdin](https://github.com/adrianhajdin)
 
 
 
