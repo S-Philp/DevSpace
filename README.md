@@ -68,8 +68,6 @@
 * [Usage](#usage)
 * [Videos And Screenshots](#videos-and-screenshots)
 * [Roadmap](#roadmap)
-* [Contributing](#contributing)
-* [License](#license)
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
 
