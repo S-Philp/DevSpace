@@ -29,7 +29,7 @@
   <h3 align="center">DevSpace</h3><!-- YOUR_TITLE-->
     
   <p align="center"><!-- YOUR_SHORT_DESCRIPTION -->
-  DevSpace is a place where developers can post about their projects. A developer can create a post with their project photo, project   website url, github repository url, a descriptive message and hashtags. Developers are also able to like posts, edit posts or delete posts. 
+  DevSpace is a place where developers can post about their projects. A developer can create a post with their project photo, project website url, github repository url, a descriptive message and hashtags. Developers are also able to like posts, edit posts or delete posts. 
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
@@ -65,7 +65,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-DevSpace is a place where developers can post about their projects. A developer can create a post with their project photo, project website url, github repository url, a descriptive message and hashtags. If a developer does not provide a photo, DevSpace will provide a default photo. The project website url and github repository url will post as live links that will open in a new tab when clicked. Developers are also able to like posts, edit posts or delete posts.
+DevSpace is a place where developers can post about their projects. A developer can create a post with their project photo, project website url, github repository url, a descriptive message and hashtags. The photo is uploaded from your device. If a developer does not provide a photo, DevSpace will provide a default photo. The project website url and github repository url will post as live links that will open in a new tab when clicked. Developers are also able to like posts, edit posts or delete posts.
 
 
 ### Built With
