@@ -140,7 +140,7 @@ const API_KEY = 'ENTER YOUR API';
 
 ## Prerequisites & Installation 
 
-The main component needed to run RecipeBox is Node.js 
+The main component needed to run DevSpace is Node.js 
 
  <!-- * Installing Node:-->
 * If you dont have Node installed already, you can Download Node.js <a href="https://nodejs.org/en/">Here</a>
@@ -161,20 +161,25 @@ The main component needed to run RecipeBox is Node.js
             node -v 
 ```
 
-* You can download RecipeBox project file to your computer directly by hovering over the "Code" dropdown in Github and clicking the "Download Zip" option. <br/> You can also use the terminal to clone  the project to the desired location on you computer by running :
+* You can download DevSpace project file to your computer directly by hovering over the "Code" dropdown in Github and clicking the "Download Zip" option. <br/> You can also use the terminal to clone  the project to the desired location on you computer by running :
 
 ```sh
-            git clone https://github.com/hptran7/Recipes-Project.git
+            git clone https://github.com/S-Philp/memories
 ```
 
 ### <span style="color:red"> </span> 
 
-* Next install all the project dependancies by running the following command while inside the Recipes-Project file:
+* Next install all the project dependancies by running the following command while inside the memories file:
 ```sh
             npm install
 ```
 
-* Finally, using the terminal, call the following command from inside of the Recipes-Project file to launch RecipeBox:
+* You need an API Key from your MongoDB Atlas account. Then add your API in `config.js`
+```JS
+const API_KEY = 'ENTER YOUR API';
+```
+
+* Finally, using the terminal, call the following command from inside of the memories file to launch DevSpace:
 ```sh
             node app.js 
 ```
