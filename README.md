@@ -108,34 +108,6 @@ Here's a blank template to get started:
 
 
 <!-- GETTING STARTED -->
-## Getting Started
-You should explain how to get your project up and running locally. EXAMPLE: To get a local copy up and running follow these simple steps.
-
-### Prerequisites
-
-Here is an example of what this should contain and how to do it. If it is required for the project it should go here.
-* UUID
-```sh
-npm install npm@latest -g
-```
-
-### Installation
-
-1. Clone to local machine
-```sh
-git clone https://github.com/github_username/repo_name.git
-```
-2. Install NPM packages
-```sh
-npm install
-```
-3. 
-
-4. You need an API Key from [https://example.com](https://example.com). Then add your API in `config.js`
-```JS
-const API_KEY = 'ENTER YOUR API';
-```
-
 # Getting Started:
 
 ## Prerequisites & Installation 
