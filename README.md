@@ -65,17 +65,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-I put this together to show what a detailed README is like. This README is written and styled in Markdown.  You can edit this eitehr in the browser or your code editor. VScode does have a Markdown extension which will show you the syntax highlighting.
-
-Why doing this detailed README is important:
-* Recruiters who looks at your project might not know how to reade code.
-* You an reuse it over and over again. Save time and work on your projects more by just editing this to match your next project!
-* You should element DRY principles to the rest of your life :smile:
-
-
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`
+DevSpace is a place where developers can post about their projects. A developer can create a post with their project photo, project website url, github repository url, a descriptive message and hashtags. If a developer does not provide a photo, DevSpace will provide a default photo. The project website url and github repository url will post as live links that will open in a new tab when clicked. Developers are also able to like posts, edit posts or delete posts.
 
 
 ### Built With
