@@ -157,7 +157,7 @@ _For more examples, please refer to the [Project-Demo](https://example.com)_
 
 Shannel Philp - [shannel-philp](https://www.linkedin.com/in/shannel-philp/) - email
 
-Project Link: [memories](https://github.com/S-Philp/memories)
+Project Link: [DevSpace](https://devspace-app.netlify.app/)
 
 
 
