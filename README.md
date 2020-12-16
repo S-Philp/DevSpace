@@ -182,7 +182,7 @@ Project Link: [memories](https://github.com/S-Philp/memories)
     [NathanNoSudo](https://github.com/NathanNoSudo)
  - **Othneildrew**  - [OthneilDrew](https://github.com/othneildrew)
  - **Adrian Hajdin** - [Adrian Hajdin](https://github.com/adrianhajdin)
- Digital Crafts Full Stack Immersive 12/2020 Solo React/Redux Project.
+ - Digital Crafts Full Stack Immersive 12/2020 Solo React/Redux Project.
 
 
 
